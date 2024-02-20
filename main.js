@@ -1,3 +1,3 @@
 function mudaCorTexto(){
-    alert("sou lindo")
+    document.querySelector("#p1").style.color="green"
 }
