@@ -1,1 +1,3 @@
-alert("sou lindo")
+function mudaCorTexto(){
+    alert("sou lindo")
+}
