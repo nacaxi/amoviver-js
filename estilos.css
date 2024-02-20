@@ -4,3 +4,8 @@ body{
     background: rgb(161,171,255);
     background: linear-gradient(90deg, rgba(161,171,255,1) 0%, rgba(7,213,255,1) 100%);
 }
+
+.teste1{
+    display: flex;
+    justify-content: space-around;
+}
