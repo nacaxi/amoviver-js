@@ -7,8 +7,6 @@ function mudaCorFundo(){
 }
 
 function alternarTexto(){
-    textoForm =
-    document.querySelector("textimput").value
-    document.querySelector("texto2").innerHTML.HTML
-    = textoForm
+    textoForm = document.querySelector("textimput").value
+    document.querySelector("texto2").innerHTML.HTML = textoForm
 }
