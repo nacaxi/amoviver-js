@@ -3,5 +3,5 @@ function mudaCorTexto(){
 }
 
 function mudaCorFundo(){
-    document.querySelector("#p2").style.color="red"
+    document.querySelector("#p2").style.background="red"
 }
